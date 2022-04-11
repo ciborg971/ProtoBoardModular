@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "L9110S")(type "Legacy")(uri "${KIPRJMOD}/LIB/L9110S/L9110S.lib")(options "")(descr ""))
+  (lib (name "WS2812-2020")(type "Legacy")(uri "${KIPRJMOD}/LIB/WS2812-2020/WS2812-2020.lib")(options "")(descr ""))
+)
