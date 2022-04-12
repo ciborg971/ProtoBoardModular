@@ -1757,7 +1757,7 @@
   (gr_text "QWIIC" (at 67.25 83.45) (layer "F.SilkS") (tstamp 9f37d258-1b8b-4799-969b-53d36c003782)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (gr_text "Main" (at 80.35 88.5) (layer "F.SilkS") (tstamp a9b70784-b117-4973-8827-161e3126ce00)
+  (gr_text "Main V0.1" (at 80.35 88.5) (layer "F.SilkS") (tstamp a9b70784-b117-4973-8827-161e3126ce00)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "33" (at 94.05 77.5 90) (layer "F.SilkS") (tstamp aff0aa19-d1d6-48a4-be26-3d0b2e36e3b1)
