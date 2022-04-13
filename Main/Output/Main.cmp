@@ -1,0 +1,275 @@
+Cmp-Mod V01 Created by PcbNew   date = 2022 April 13, Wednesday 11:49:19
+
+BeginCmp
+TimeStamp = 08e2d62f-f99a-4268-8b33-617dfcc63e75
+Path = /a85343c8-6bd7-4d4b-b532-d80dba0c6a78
+Reference = R9;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 056ef71b-f8f2-4785-ad4a-af184d509218
+Path = /69f8021c-4663-4788-a3e8-72833dd0b5fb
+Reference = J8;
+ValeurCmp = Conn_01x02_Female;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 098afe52-27f0-4ec0-bf39-4eb766d2a851
+Path = /973f3410-ad48-493d-8e6a-3a373ef2cad0
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 290c753b-3b9b-4c45-85a5-65bd9eae1f9e
+Path = /da343a92-6361-4d13-a6d1-6e92c7a65e8a
+Reference = R3;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d210a96-f81f-42a9-8bf4-1b43c11086f3
+Path = /69fd1b1f-4923-4fb0-9e10-8513ed93b903
+Reference = IC2;
+ValeurCmp = L9110S;
+IdModule  = footprint:SOIC127P600X150-8;
+EndCmp
+
+BeginCmp
+TimeStamp = 358a9513-558b-4d24-9a4e-7678e62db802
+Path = /586f1032-e846-4805-b543-f732e62109fc
+Reference = R6;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3662e68b-207e-47a3-930c-038dfd8202b6
+Path = /dfbc3bb3-d442-46f4-b72a-422e5fe8bcce
+Reference = TP6;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 3fe2fcb1-cdd0-43c4-be72-ab162d8d85cd
+Path = /1202fd1a-2595-46d0-8329-03b7e0fb26a8
+Reference = R8;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 4221b138-87b6-4073-a6e3-acb41ba2e601
+Path = /518648e5-4c77-424a-b965-aef22f525c53
+Reference = U1;
+ValeurCmp = ESP32-WROOM-32D;
+IdModule  = RF_Module:ESP32-WROOM-32;
+EndCmp
+
+BeginCmp
+TimeStamp = 4be2d863-39fc-49fd-99c7-77790b42f677
+Path = /b2dd0093-84bb-432f-abc7-0203808ed56f
+Reference = H4;
+ValeurCmp = MH;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = 539dec9e-2c45-4201-ab13-cbbbab8fc31b
+Path = /1720915b-2aaa-40f6-b0b0-525c9044ff03
+Reference = C4;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 60fc0348-15d2-462c-9b87-dbb507b8717b
+Path = /85aced20-ca91-49cd-9dcd-1bcb4f99d66b
+Reference = J4;
+ValeurCmp = Conn_01x05_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 6637d10c-2274-483a-9c00-7a938c2b78d2
+Path = /4de00cf7-8fca-4565-b77e-59b5a927a9de
+Reference = R7;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 685d6c14-8a19-4723-a645-abde075b49ec
+Path = /d3d4f3d0-1ba3-41ca-ac2e-219deba6f488
+Reference = R5;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 6a45789b-3855-401f-8139-3c734f7f52f9
+Path = /c61de0ed-fea1-46b3-9703-db631e27e729
+Reference = IC1;
+ValeurCmp = L9110S;
+IdModule  = footprint:SOIC127P600X150-8;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e24aa9b-c7e6-40f2-905b-b9c541e0e2f6
+Path = /58f13fd5-8fb8-409c-b5e6-073279121bfd
+Reference = J5;
+ValeurCmp = Conn_01x05_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 7cc510d9-2339-42a7-bb31-eff1142f0636
+Path = /8b287a71-b5ff-4a2b-98b2-378c7ddda7e2
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7edc9030-db7b-43ac-a1b3-b87eeacb4c2d
+Path = /818a5c66-63d0-4d1e-af7f-4fac0d814bca
+Reference = IC3;
+ValeurCmp = L9110S;
+IdModule  = footprint:SOIC127P600X150-8;
+EndCmp
+
+BeginCmp
+TimeStamp = 83181dd0-bbcd-4a99-a5a2-7d6961abb51a
+Path = /7824d3bc-cb30-4342-a0ba-deb18ba6ec2b
+Reference = TP4;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 88e4f832-79d6-4c54-9ce3-4328dcb9d5b5
+Path = /7503cab9-e210-4fb5-98ad-f15c8a0fe08d
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8aab4608-39e8-491a-83a8-7194f36094f1
+Path = /814658a8-77c0-4549-9332-4d97849ff665
+Reference = J6;
+ValeurCmp = Conn_01x05_Female;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 8acaf6b9-a3a5-456a-a486-3bf8ee9b4b79
+Path = /18073b71-a234-48e8-bd10-6cf141eb1db8
+Reference = J7;
+ValeurCmp = Conn_01x12_Female;
+IdModule  = Connector_Hirose:Hirose_DF13-12P-1.25DSA_1x12_P1.25mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 9116f42f-8d27-4055-8fab-af8b6ed6959f
+Path = /d98a6249-9ea8-4497-9ba7-16eb81de5375
+Reference = H2;
+ValeurCmp = MH;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = a7643de7-df1f-4474-b59f-da90178b1d80
+Path = /653e3c36-d1e2-4e14-b7b2-ff8ce337f849
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = b8c83ad1-b3c9-495c-bdc6-62dead00f5ad
+Path = /f0bfcaa7-fdbb-41ba-a2fd-b4a5a3e61777
+Reference = J2;
+ValeurCmp = I2C_STANDARDQWIIC;
+IdModule  = Connectors:1X04_1MM_RA;
+EndCmp
+
+BeginCmp
+TimeStamp = bb7f3caf-4343-4dcb-b7b2-5479c850c4a2
+Path = /826c0ae5-082b-47a9-a139-9a98732ac985
+Reference = J3;
+ValeurCmp = Conn_01x02_Female;
+IdModule  = Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = c546008e-7661-419e-94b3-0bbb9fd14ec8
+Path = /6862e493-62c7-43cb-89b4-e222dba1022e
+Reference = H1;
+ValeurCmp = MH;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = d32a1d0f-6a8f-45b4-822f-8b613131fd8a
+Path = /a8ac8b85-769b-4cd5-8d6c-43c22675b717
+Reference = H3;
+ValeurCmp = MH;
+IdModule  = MountingHole:MountingHole_2.2mm_M2_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = f0f3907b-44e3-4106-9f24-d8ce836b6bb0
+Path = /dad998fb-b89c-4cc0-8dd4-efc0862158c1
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = Resistor_SMD:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = fa7e24a1-3452-454e-88a7-8a0ff878392a
+Path = /25ef609a-9620-4768-a22e-7c4ef348f5f5
+Reference = J1;
+ValeurCmp = Conn_01x10_Female;
+IdModule  = Connector_Hirose:Hirose_DF13-10P-1.25DSA_1x10_P1.25mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 4102ae0e-3d75-40cd-957b-0b4db5d3f5ee
+Path = /adffda85-31b1-4128-a4e1-59695e57e006
+Reference = TP2;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 88a7e34c-57e7-48ce-a358-6866b2c01d90
+Path = /5be98108-ac64-4352-860a-3801b710546c
+Reference = TP3;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = dd552f19-e379-4dd5-a10b-882b6c8e7a65
+Path = /483e60c6-24cb-49ae-a87f-754d2e533242
+Reference = TP1;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = ee94ab47-8315-46a5-bfc7-60550df5879d
+Path = /48f46a17-f84c-4c56-927a-d44bc2b54c96
+Reference = TP5;
+ValeurCmp = TestPoint;
+IdModule  = TestPoint:TestPoint_Pad_1.5x1.5mm;
+EndCmp
+
+EndListe
