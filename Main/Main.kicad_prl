@@ -70,6 +70,19 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "Main.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1724,
+          "pos_y": 40,
+          "size_x": 1708,
+          "size_y": 1392
+        }
+      }
+    ]
   }
 }

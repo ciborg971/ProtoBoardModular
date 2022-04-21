@@ -70,6 +70,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "PowerADCs.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 866,
+          "pos_y": 40,
+          "size_x": 850,
+          "size_y": 1392
+        }
+      },
+      {
+        "name": "PowerADCs.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 1724,
+          "pos_y": 40,
+          "size_x": 850,
+          "size_y": 1392
+        }
+      }
+    ]
   }
 }
